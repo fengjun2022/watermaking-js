@@ -1,0 +1,14 @@
+{
+  "name": "watermaking",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "use ts",
+  "main": "./dist/waterMarking.js",
+  "scripts": {
+    "test": "command"
+  },
+  "keywords": [
+    "watermaking"
+  ],
+  "author": "fengjun",
+  "license": "MIT"
+}
